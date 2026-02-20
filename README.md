@@ -26,7 +26,7 @@ The implementation **chosen for submission** is:
 
 **Edward’s implementation** (`Edward/`)
 
-This version was selected because it best satisfies the project requirements and represents the most complete and stable implementation.
+This version was selected because it satisfies the project requirements and represents the group's decision for submission.
 
 ---
 
