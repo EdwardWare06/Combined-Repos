@@ -1,0 +1,9 @@
+[submodule "Edward"]
+	path = Edward
+	url = https://github.com/EdwardWare06/techshell
+[submodule "Carter"]
+	path = Carter
+	url = https://github.com/Carter-Birb/TechShell-Project
+[submodule "Cole"]
+	path = Cole
+	url = https://github.com/VentralWinter38/CSC2223-TechShell
